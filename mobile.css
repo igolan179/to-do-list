@@ -1,0 +1,47 @@
+@media (max-width: 767px) {
+    .container {
+        width: 100vw;
+    }
+    .paper {
+        margin-top: 0rem;
+        height: 100vh;
+        width:100%;
+        padding-right:0;
+    }
+    .newtask {
+        max-width: 260px;
+    }
+    .fa-running {
+        font-size: 100px;
+        right: 105px;
+        top: 30px;
+    }
+    .fa-shopping-cart {
+        right: 3vw;
+        font-size: 10vw;
+    }
+    .fa-book {
+        font-size: 8vw;
+        top: 45px;
+        left: 60vw;
+    }
+    .list{
+        font-size:5vw;
+        
+    }
+    .fa-times{
+        font-size: 5vw;
+    }
+    .fa-plus {
+        font-size: 5vw
+    }
+    h1{
+        font-size: 8vw
+    }
+    .newtask{
+        font-size: 5vw
+    }
+    .task_text{
+        font-size: 5vw
+    }
+}
